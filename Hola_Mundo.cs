@@ -1,10 +1,16 @@
 
+using System;
 
-class Saludo {
+namespace Ejemplo
+{
 
-public static void main(String[] args){
+public class Saludo {
+
+public static void Main(string[] args) {
 
 Console.WriteLine("Hola mundo desde C sharp");
 }
 
+}
+  
 }
