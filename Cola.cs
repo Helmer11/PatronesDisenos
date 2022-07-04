@@ -13,16 +13,16 @@ static void Main(string[] args){
 
 string palabra;
 
-  Queue cola = new Queue();
-  cola.Enqueue("Hola ");
-  cola.Enqueue("buenos ");
-  cola.Enqueue("dias.");
+        Queue cola = new Queue();
+        cola.Enqueue("Hola ");
+        cola.Enqueue("buenos ");
+        cola.Enqueue("dias.");
 
-  for (byte i =0; i < 3;i++) {
-    palabra = (string) cola.Dequeue();
-    Console.WriteLine(palabra);
-  }
-  Console.ReadKey();
+      for (byte i =0; i < 3;i++) {
+            palabra = (string) cola.Dequeue();
+            Console.WriteLine(palabra);
+            }
+            Console.ReadKey();
 
 }
 

@@ -11,7 +11,7 @@ namespace EjemploPila
 public class Pila
 {
     public static void Main(string[] args) {
-                string palabra;
+          string palabra;
 
             Stack miPila = new Stack();
                 miPila.Push("Hola");
