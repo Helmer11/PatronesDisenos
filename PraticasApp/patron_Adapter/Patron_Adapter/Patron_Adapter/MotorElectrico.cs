@@ -12,7 +12,6 @@ namespace Patron_Adapter
         bool _activo;
         bool _moviendo;
 
-
         public void Conectar()
         {
             if (_conectado)
@@ -22,8 +21,6 @@ namespace Patron_Adapter
                 _conectado = true;
                 Console.WriteLine("Motor conectado!");
             }
-
-
         }
 
         public void Activar()
