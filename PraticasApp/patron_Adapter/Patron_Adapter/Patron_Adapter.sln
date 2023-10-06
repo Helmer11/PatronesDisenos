@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patron_Adapter", "Patron_Adapter\Patron_Adapter.csproj", "{01661800-443A-4789-B517-4FE176B01C90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01661800-443A-4789-B517-4FE176B01C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01661800-443A-4789-B517-4FE176B01C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01661800-443A-4789-B517-4FE176B01C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01661800-443A-4789-B517-4FE176B01C90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C5C9843-072C-45CD-9091-7BF047AF8ED3}
+	EndGlobalSection
+EndGlobal
